@@ -30,11 +30,5 @@ class Breed
   
 end
 
-bruno = Dog.new 
-bruno.name = "Bruno"
 
-rottwieler = Breed.new 
-rottwieler.breed = "Rottwieler"
-
-puts bruno.name
 puts rottwieler.breed 
