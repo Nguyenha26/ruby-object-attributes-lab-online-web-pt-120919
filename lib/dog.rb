@@ -22,6 +22,3 @@ class Breed
   end
   
 end
-
-
-puts rottwieler.breed 
